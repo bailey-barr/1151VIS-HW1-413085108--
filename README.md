@@ -37,4 +37,6 @@
 ---
 
 ## 📸 專案預覽
-*(請在此處貼上您的網頁執行截圖)*
+<img width="940" height="596" alt="image" src="https://github.com/user-attachments/assets/af976e9e-f6f2-4bd7-a175-196fa938294e" />
+
+<img width="940" height="596" alt="image" src="https://github.com/user-attachments/assets/3ba7a603-b4bb-4c71-bec3-49bb88b0b262" />
