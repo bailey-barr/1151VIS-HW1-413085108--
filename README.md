@@ -29,10 +29,6 @@
      python3 -m http.server 8000
      ```
    * 開啟瀏覽器訪問 `http://localhost:8000` 確認圖表正常渲染。
-4. **成果繳交**：
-   * 將專案打包上傳至 GitHub[cite: 1]。
-   * 將專案共用權限開給 `cchu.fju@gmail.com`[cite: 1]。
-   * 錄製操作與展示畫面影片[cite: 1]。
 
 ---
 
